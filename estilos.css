@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: url(fondo1.jpg);
+}
+.cabecera{
+    font-family: 'Girassol', cursive;
+    border-bottom: 5px solid black;
+    text-align: center;
+}
+.tabla{
+  border-bottom:  2px solid black;
+  width: 300px;
+}
+
+.contenedor{
+   box-shadow: 20px 20px 20px black;
+    background-color: white;
+    border-radius: 12px;
+    border: 3px solid white;
+    height: 749px;
+    width: 740px;
+    margin: 0 auto;
+    margin-top: 5px;
+    padding: 22px;
+}
+.container{
+    text-align: center;
+    border-bottom: 2px solid blue;
+    font-family: 'Roboto Mono', monospace;
+ 
+}
+h2{
+    text-align: center;
+}
+.tabla1{
+    border-bottom: 2px solid black;
+    width: 200px;
+}
+h4, h3,h2, p, ul{
+    font-family: 'Barlow', sans-serif;
+    
+
+}
